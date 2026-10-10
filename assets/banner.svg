@@ -1,11 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Hello, I'm Menggou. Curiosity-driven. Building useful things.">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17243B"/><stop offset="1" stop-color="#273C5B"/></linearGradient></defs>
-<rect width="1000" height="260" rx="18" fill="url(#bg)"/>
-<g opacity=".15" fill="none" stroke="#B4A0D7"><circle cx="900" cy="90" r="115"/><circle cx="900" cy="90" r="77"/><path d="M740 0L1000 260M800 0L1000 200"/></g>
-<text x="52" y="51" fill="#B4A0D7" font-size="17" font-family="Arial,sans-serif" letter-spacing="3">MENGGOU / DEV SPACE</text>
-<text x="50" y="117" fill="#FFFFFF" font-size="47" font-weight="700" font-family="Arial,sans-serif">Hello, I'm Menggou.</text>
-<text x="52" y="161" fill="#C3D4EC" font-size="23" font-family="Arial,sans-serif">Curiosity-driven. Building useful things.</text>
-<rect x="52" y="182" width="155" height="3" rx="1.5" fill="#B4A0D7"/>
-<text x="52" y="219" fill="#EAF0F7" font-size="18" font-family="Arial,sans-serif">Food Science  ×  Programming  ×  Everyday Tools</text>
-<text x="845" y="214" fill="#B4A0D7" font-size="48" font-family="monospace" opacity=".7">{ }</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Lexible — personal development space</title>
+  <desc id="desc">Hello, I'm Lexible. Curiosity-driven. Building useful things. Food Science, Programming, Everyday Tools.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1000" height="320" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="320" fill="#EAF0F7"/>
+    <rect width="600" height="320" fill="#17243B"/>
+    <path d="M600 0V320" stroke="#6688B7" stroke-width="2"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="44" y="39" width="7" height="7" rx="2" fill="#B4A0D7"/>
+      <text x="64" y="47" fill="#6688B7" font-size="13" letter-spacing="2.4">LEXIBLE / PERSONAL DEV SPACE</text>
+      <text x="42" y="128" fill="#EAF0F7" font-size="49" font-weight="700" letter-spacing="-1.5">Hello, I'm Lexible.</text>
+      <text x="44" y="174" fill="#EAF0F7" font-size="21">Curiosity-driven.</text>
+      <text x="44" y="206" fill="#EAF0F7" font-size="21">Building useful things.</text>
+      <path d="M44 244H548" stroke="#6688B7" stroke-opacity=".45"/>
+      <text x="44" y="278" fill="#6688B7" font-size="13" letter-spacing="1.5">SMALL IDEAS. PRACTICAL TOOLS.</text>
+      <text x="640" y="47" fill="#6688B7" font-size="12" letter-spacing="2">AT THE INTERSECTION OF</text>
+      <g fill="#17243B" font-size="23" font-weight="700">
+        <text x="673" y="112">Food Science</text>
+        <text x="673" y="173">Programming</text>
+        <text x="673" y="234">Everyday Tools</text>
+      </g>
+      <g fill="#6688B7" font-size="12" font-family="Consolas, monospace">
+        <text x="639" y="109">01</text>
+        <text x="639" y="170">02</text>
+        <text x="639" y="231">03</text>
+      </g>
+      <path d="M643 120V151M643 181V212" stroke="#6688B7" stroke-opacity=".5"/>
+      <path d="M640 258H956" stroke="#6688B7" stroke-opacity=".35"/>
+      <circle cx="646" cy="281" r="4" fill="#B4A0D7"/>
+      <text x="661" y="285" fill="#6688B7" font-size="12" letter-spacing="1">LEARN / BUILD / REFINE</text>
+    </g>
+  </g>
 </svg>
