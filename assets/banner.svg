@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Hello, I'm Menggou. Curiosity-driven. Building useful things.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17243B"/><stop offset="1" stop-color="#273C5B"/></linearGradient></defs>
+<rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+<g opacity=".15" fill="none" stroke="#B4A0D7"><circle cx="900" cy="90" r="115"/><circle cx="900" cy="90" r="77"/><path d="M740 0L1000 260M800 0L1000 200"/></g>
+<text x="52" y="51" fill="#B4A0D7" font-size="17" font-family="Arial,sans-serif" letter-spacing="3">MENGGOU / DEV SPACE</text>
+<text x="50" y="117" fill="#FFFFFF" font-size="47" font-weight="700" font-family="Arial,sans-serif">Hello, I'm Menggou.</text>
+<text x="52" y="161" fill="#C3D4EC" font-size="23" font-family="Arial,sans-serif">Curiosity-driven. Building useful things.</text>
+<rect x="52" y="182" width="155" height="3" rx="1.5" fill="#B4A0D7"/>
+<text x="52" y="219" fill="#EAF0F7" font-size="18" font-family="Arial,sans-serif">Food Science  ×  Programming  ×  Everyday Tools</text>
+<text x="845" y="214" fill="#B4A0D7" font-size="48" font-family="monospace" opacity=".7">{ }</text>
+</svg>
