@@ -12,18 +12,20 @@ Curiosity-driven. Building useful things.
 
 ## About Me · 关于我
 
-Hi, I'm **Lexible**，一名食品科学与工程专业本科生。
+**Lexible**，食品科学与工程专业本科生。
 
-我喜欢从日常生活里寻找值得解决的小问题：让专注与任务管理更顺手，让校园信息更容易获取，让学习过程更清晰。编程是我探索这些问题、把想法做成工具的方式。
+我经常编写用于学习和日常事务的小工具，涉及任务管理、校园信息查询和学习记录，也在项目中练习编程与自动化。
 
-I'm a Food Science and Engineering undergraduate exploring programming, automation, and practical software. I learn by building small tools, using them, and improving the details.
+I'm **Lexible**, an undergraduate in Food Science and Engineering.
+
+I regularly develop small tools for studying and everyday tasks, including task management, campus information lookup, and study tracking. These projects also serve as practice in programming and automation.
 
 > 从一个具体问题开始，做一个真正用得上的工具。
 > Start with a real problem. Build something useful.
 
 ## Current Focus · 正在探索
 
-| 方向 | 我感兴趣的事情 |
+| 方向 | 经常涉及的内容 |
 | :-- | :-- |
 | **Everyday Tools** | 专注、任务管理与校园生活中的实用工具 |
 | **Learning Systems** | 刷题记录、学习统计与知识整理 |
@@ -32,7 +34,7 @@ I'm a Food Science and Engineering undergraduate exploring programming, automati
 
 ### Toolkit · 技术探索
 
-![Exploring Python, JavaScript, HTML and CSS, Git, Streamlit, and AI-assisted development](assets/toolkit.svg)
+![Exploring Python, C/C++, JavaScript, HTML and CSS, Git, and AI-assisted development](assets/toolkit.svg)
 
 这些是我正在接触和使用的工具；项目也是我的学习记录。
 
@@ -44,7 +46,7 @@ I'm a Food Science and Engineering undergraduate exploring programming, automati
 | :-- | :-- | :-- |
 | **FocusTodo Local** | **日常效率** · 专注与任务管理，把待办和专注过程放在一起 | [源码](https://github.com/menggou1/FocusTodo-Local) · [在线体验 ↗](https://menggou1.github.io/FocusTodo-Local/) |
 | **Electricity Monitor** | **校园生活** · 河南科技大学宿舍电量查询与记录 | [源码 ↗](https://github.com/menggou1/check-electricity-public) |
-| **Politics Tracker** | **学习记录** · 基于 Streamlit 的考研政治刷题统计工具 | [源码 ↗](https://github.com/menggou1/kaoyan-politics-tracker) |
+| **Politics Tracker** | **学习记录** · 考研政治刷题统计工具 | [源码 ↗](https://github.com/menggou1/kaoyan-politics-tracker) |
 | **Daily Sentence** | **每日学习** · 面向 2027 考研的每日一句 | [源码](https://github.com/menggou1/27-kaoyan-daily-sentence) · [在线体验 ↗](https://menggou1.github.io/27-kaoyan-daily-sentence/) |
 
 <details>
@@ -62,15 +64,16 @@ I'm a Food Science and Engineering undergraduate exploring programming, automati
 
 **02 / 先做小，再完善** — 从可用的版本开始，在实际使用中发现和打磨细节。
 
-**03 / 保持清晰** — 偏爱简洁的界面、明确的反馈和容易理解的流程。
+**03 / 保持清晰** — 整理页面结构，明确操作反馈，减少不必要的步骤。
 
 **04 / 边做边学** — 把每个项目当作一次练习，也留下一份可以回看的记录。
 
 ## Learning Notes · 学习与记录
 
-我希望把专业学习与技术探索都积累成可复用的经验。当前的学习方向包括：
+在专业学习之外，通过项目练习编程，并整理开发过程中的经验。当前的学习方向包括：
 
-- **Python & Streamlit** — 数据整理、学习统计和轻量工具。
+- **Python** — 数据整理、学习统计和轻量工具。
+- **C/C++** — 语法基础、程序设计与编程练习。
 - **JavaScript & HTML/CSS** — 网页交互、页面结构与界面表达。
 - **Git & GitHub** — 版本管理、项目文档与持续迭代。
 - **AI-assisted Development** — 在开发过程中练习拆解问题、理解代码与验证结果。
